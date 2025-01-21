@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JPS-School/static/css/main.a01ef74b.css",
+    "main.js": "/JPS-School/static/js/main.e63c9a24.js",
+    "static/js/151.f7412af1.chunk.js": "/JPS-School/static/js/151.f7412af1.chunk.js",
+    "index.html": "/JPS-School/index.html",
+    "main.a01ef74b.css.map": "/JPS-School/static/css/main.a01ef74b.css.map",
+    "main.e63c9a24.js.map": "/JPS-School/static/js/main.e63c9a24.js.map",
+    "151.f7412af1.chunk.js.map": "/JPS-School/static/js/151.f7412af1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01ef74b.css",
+    "static/js/main.e63c9a24.js"
+  ]
+}
