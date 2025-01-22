@@ -1,0 +1,55 @@
+.footer-container {
+    background-color: #1a1a2e;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .icons-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .icon {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .icon:hover {
+    color: #f39c12;
+  }
+  
+  .school-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 14px;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
+  .separator {
+    color: #ffffff;
+    margin: 0 5px;
+  }
+  
